@@ -6,3 +6,4 @@
 4. Reverse String - C++ Soln
 5. Random Pick with Weight - C++ Soln
 6. Queue Reconstruction by Height - C++ Soln
+7. Coin Change 2 - C++
