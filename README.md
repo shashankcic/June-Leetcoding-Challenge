@@ -8,4 +8,4 @@
 6. Queue Reconstruction by Height - C++ Soln
 7. Coin Change 2 - C++ Soln
 8. Power of Two - C++ Soln
-9. Is Subsequence - C++
+9. Is Subsequence - C++ Soln
