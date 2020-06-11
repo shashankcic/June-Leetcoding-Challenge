@@ -9,4 +9,4 @@
 7. Coin Change 2 - C++ Soln
 8. Power of Two - C++ Soln
 9. Is Subsequence - C++ Soln
-10. Search Insert Position - C++
+10. Search Insert Position - C++ Soln
