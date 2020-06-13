@@ -11,3 +11,4 @@
 9. Is Subsequence - C++ Soln
 10. Search Insert Position - C++ Soln
 11. Sort Colors - C++ Soln
+12. Insert Delete GetRandom O(1) - C++
