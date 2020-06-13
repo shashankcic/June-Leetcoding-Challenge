@@ -10,4 +10,4 @@
 8. Power of Two - C++ Soln
 9. Is Subsequence - C++ Soln
 10. Search Insert Position - C++ Soln
-11. Sort Colors - C++
+11. Sort Colors - C++ Soln
