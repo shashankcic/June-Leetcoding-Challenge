@@ -17,4 +17,4 @@
 15. Search in a Binary Search Tree - C++ Soln
 16. Validate IP Address - C++ Soln
 17. Surrounded Regions - C++ Soln
-18. H-Index II - C++
+18. H-Index II - C++ Soln
