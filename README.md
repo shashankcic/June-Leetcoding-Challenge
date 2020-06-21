@@ -18,4 +18,4 @@
 16. Validate IP Address - C++ Soln
 17. Surrounded Regions - C++ Soln
 18. H-Index II - C++ Soln
-19. Longest Duplicate Substring - C++
+19. Longest Duplicate Substring - C++ Soln
