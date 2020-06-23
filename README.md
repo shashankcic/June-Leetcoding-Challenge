@@ -20,4 +20,4 @@
 18. H-Index II - C++ Soln
 19. Longest Duplicate Substring - C++ Soln
 20. Permutation Sequence - C++ Soln
-21. Dungeon Game - C++
+21. Dungeon Game - C++ Soln
