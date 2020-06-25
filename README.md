@@ -21,4 +21,4 @@
 19. Longest Duplicate Substring - C++ Soln
 20. Permutation Sequence - C++ Soln
 21. Dungeon Game - C++ Soln
-22. Single Number II - C++
+22. Single Number II - C++ Soln
