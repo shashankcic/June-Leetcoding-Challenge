@@ -23,3 +23,4 @@
 21. Dungeon Game - C++ Soln
 22. Single Number II - C++ Soln
 23. Count Complete Tree Nodes - C++ Soln
+24. Unique Binary Search Trees - C++
