@@ -22,4 +22,4 @@
 20. Permutation Sequence - C++ Soln
 21. Dungeon Game - C++ Soln
 22. Single Number II - C++ Soln
-23. Count Complete Tree Nodes - C++
+23. Count Complete Tree Nodes - C++ Soln
