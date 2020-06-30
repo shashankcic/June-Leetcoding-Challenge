@@ -24,4 +24,4 @@
 22. Single Number II - C++ Soln
 23. Count Complete Tree Nodes - C++ Soln
 24. Unique Binary Search Trees - C++ Soln
-25. Find the Duplicate Number - C++
+25. Find the Duplicate Number - C++ Soln
