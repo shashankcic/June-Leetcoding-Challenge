@@ -26,4 +26,4 @@
 24. Unique Binary Search Trees - C++ Soln
 25. Find the Duplicate Number - C++ Soln
 26. Sum Root to Leaf Numbers - C++ Soln
-27. Perfect Squares - C++
+27. Perfect Squares - C++ Soln
