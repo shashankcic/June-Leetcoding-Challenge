@@ -28,4 +28,4 @@
 26. Sum Root to Leaf Numbers - C++ Soln
 27. Perfect Squares - C++ Soln
 28. Reconstruct Itinerary - C++ Soln
-29. Unique Paths - C++
+29. Unique Paths - C++ Soln
