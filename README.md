@@ -27,3 +27,4 @@
 25. Find the Duplicate Number - C++ Soln
 26. Sum Root to Leaf Numbers - C++ Soln
 27. Perfect Squares - C++ Soln
+28. Reconstruct Itinerary - C++
