@@ -29,3 +29,4 @@
 27. Perfect Squares - C++ Soln
 28. Reconstruct Itinerary - C++ Soln
 29. Unique Paths - C++ Soln
+30. Word Search II - C++
